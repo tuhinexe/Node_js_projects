@@ -1,4 +1,4 @@
-// https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=a6a544228352ca1255de2e73b22db058
+
 const http = require("http");
 const fs = require("fs");
 var requests = require("requests");
